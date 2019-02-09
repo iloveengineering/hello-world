@@ -1,0 +1,13 @@
+git clone --remore repo
+
+git fetch //to fetch the branch
+
+git checkout barnchname to switch barnch
+
+git branch to dispkay branches
+
+git add . to add files
+
+git commit -m "message" to commit changes
+
+git push origin brnachname to commit to the remote branch repo
